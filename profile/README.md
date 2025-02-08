@@ -57,7 +57,7 @@ We also value close collaboration between our development and business teams, en
 
 If you're interested in learning more about how Shamil can help your business grow, streamline operations, and adopt sustainable practices, please reach out to us at:
 
-- **Email**: info@shamil.dev 📧
-- **Website**: [www.shamil.dev](http://www.shamil.dev) 🌐
+- **Email**: info@shamiltechnologies.com 📧
+- **Website**: www.shamiltechnologies.com 🌐
 
 Let Shamil be the technology partner that takes your business to the next level. 🚀
