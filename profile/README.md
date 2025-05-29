@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/shamil_logo.png" alt="Shamil Technologies Logo" width="150"/> 
+  <img src=".github/assets/logo.png" /> 
 
   <h1>🌟 Shamil Technologies 🌟</h1>
 
